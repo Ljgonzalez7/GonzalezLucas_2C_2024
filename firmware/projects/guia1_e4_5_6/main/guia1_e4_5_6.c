@@ -1,4 +1,4 @@
-/*! @mainpage Template
+/*! @mainpage guia1_ejercicio4_5_6
  *
  * @section genDesc General Description
  *
@@ -17,9 +17,9 @@
  *
  * |   Date	    | Description                                    |
  * |:----------:|:-----------------------------------------------|
- * | 12/09/2023 | Document creation		                         |
+ * | 14/08/2024 | Document creation		                         |
  *
- * @author Albano Peñalva (albano.penalva@uner.edu.ar)
+ * @author Lucas Gonzalez (lucas.gonzalez@ingenieria.uner.edu.ar)
  *
  */
 
